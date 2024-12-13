@@ -1,0 +1,3 @@
+// settings.gradle (in the android/ directory)
+rootProject.name = 'StudentAppProject'
+include ':app'
