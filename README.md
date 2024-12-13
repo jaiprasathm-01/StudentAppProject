@@ -11,7 +11,7 @@ Before running the application, ensure you have the following installed:
 ## Getting Started
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/StudentAppProject.git
+    git clone https://github.com/jaiprasathm-01/StudentAppProject.git
     cd StudentAppProject
     ```
 
